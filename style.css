@@ -1,0 +1,24 @@
+.container{
+    width: 1000px;
+    margin: auto;
+    
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.main{
+    margin: 20%;
+    
+}
+.box{
+    width: 25%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    
+}
